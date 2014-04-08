@@ -1,0 +1,4 @@
+pythonfvck
+==========
+
+python learning resources 
